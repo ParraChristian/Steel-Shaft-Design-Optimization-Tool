@@ -1,1 +1,0 @@
-# Steel-Shaft-Design-Optimization-Tool
